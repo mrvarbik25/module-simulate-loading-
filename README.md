@@ -1,5 +1,5 @@
 ENG:
-This module is emulating loading.
+This module is simulate loading.
 1) import loading
 2) loading.loading()
 
